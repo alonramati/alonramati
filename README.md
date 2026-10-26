@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Alon Ramati, and I'm super awesome.
+
 <!--
 **alonramati/alonramati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
