@@ -1,5 +1,6 @@
-Alon Ramati
+# Alon Ramati's Resume
 
-Education:
-Cherry Hill West High School
-Northeastern University
+## Education
+**Northeastern University**, Khoury College of Computer Sciences
+*Candidate: Bachelor of Science in Cybersecurity*
+Boston, MA • Sep 2026 - May 2030
